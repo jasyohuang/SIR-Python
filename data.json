@@ -1,7 +1,6 @@
-"data" = [
 {
+"DKI JAKARTA":[{
     "last_date": "2020-06-09",
-    "provinsi": "DKI JAKARTA",
     "kasus_total": 8355,
     "kasus_tanpa_tgl": 489,
     "kasus_dengan_tgl": 7866,
@@ -1831,10 +1830,9 @@
             }
         }
     }
-},
-{
+}],
+"JAWA BARAT":[{
     "last_date": "2020-06-09",
-    "provinsi": "JAWA BARAT",
     "kasus_total": 2448,
     "kasus_tanpa_tgl": 72,
     "kasus_dengan_tgl": 2376,
@@ -3600,10 +3598,9 @@
             }
         }
     }
-},
-{
+}],
+"JAWA TIMUR":[{
     "last_date": "2020-06-09",
-    "provinsi": "JAWA TIMUR",
     "kasus_total": 6533,
     "kasus_tanpa_tgl": 49,
     "kasus_dengan_tgl": 6484,
@@ -5066,10 +5063,9 @@
             }
         }
     }
-},
-{
+}],
+"JAWA TENGAH":[{
     "last_date": "2020-06-09",
-    "provinsi": "JAWA TENGAH",
     "kasus_total": 1674,
     "kasus_tanpa_tgl": 11,
     "kasus_dengan_tgl": 1663,
@@ -6612,10 +6608,9 @@
             }
         }
     }
-},
-{
+}],
+"SULAWESI SELATAN":[{
     "last_date": "2020-06-09",
-    "provinsi": "SULAWESI SELATAN",
     "kasus_total": 2194,
     "kasus_tanpa_tgl": 9,
     "kasus_dengan_tgl": 2185,
@@ -8013,10 +8008,9 @@
             }
         }
     }
-},
-{
+}],
+"BANTEN":[{
     "last_date": "2020-06-09",
-    "provinsi": "BANTEN",
     "kasus_total": 1061,
     "kasus_tanpa_tgl": 58,
     "kasus_dengan_tgl": 1003,
@@ -9611,10 +9605,9 @@
             }
         }
     }
-},
-{
+}],
+"NUSA TENGGARA BARAT":[{
     "last_date": "2020-06-09",
-    "provinsi": "NUSA TENGGARA BARAT",
     "kasus_total": 830,
     "kasus_tanpa_tgl": 2,
     "kasus_dengan_tgl": 828,
@@ -10758,10 +10751,9 @@
             }
         }
     }
-},
-{
+}],
+"BALI":[{
     "last_date": "2020-06-09",
-    "provinsi": "BALI",
     "kasus_total": 608,
     "kasus_tanpa_tgl": 9,
     "kasus_dengan_tgl": 599,
@@ -11951,10 +11943,9 @@
             }
         }
     }
-},
-{
+}],
+"PAPUA":[{
     "last_date": "2020-06-09",
-    "provinsi": "PAPUA",
     "kasus_total": 1108,
     "kasus_tanpa_tgl": 1,
     "kasus_dengan_tgl": 1107,
@@ -13241,10 +13232,9 @@
             }
         }
     }
-},
-{
+}],
+"KALIMANTAN SELATAN":[{
     "last_date": "2020-06-09",
-    "provinsi": "KALIMANTAN SELATAN",
     "kasus_total": 1438,
     "kasus_tanpa_tgl": 1,
     "kasus_dengan_tgl": 1437,
@@ -14359,10 +14349,9 @@
             }
         }
     }
-},
-{
+}],
+"SUMATERA BARAT":[{
     "last_date": "2020-06-09",
-    "provinsi": "SUMATERA BARAT",
     "kasus_total": 645,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 645,
@@ -15765,10 +15754,9 @@
             }
         }
     }
-},
-{
+}],
+"SUMATERA SELATAN":[{
     "last_date": "2020-06-09",
-    "provinsi": "SUMATERA SELATAN",
     "kasus_total": 1188,
     "kasus_tanpa_tgl": 2,
     "kasus_dengan_tgl": 1186,
@@ -17029,10 +17017,9 @@
             }
         }
     }
-},
-{
+}],
+"KALIMANTAN TENGAH":[{
     "last_date": "2020-06-09",
-    "provinsi": "KALIMANTAN TENGAH",
     "kasus_total": 522,
     "kasus_tanpa_tgl": 4,
     "kasus_dengan_tgl": 518,
@@ -18347,10 +18334,9 @@
             }
         }
     }
-},
-{
+}],
+"KALIMANTAN TIMUR":[{
     "last_date": "2020-06-09",
-    "provinsi": "KALIMANTAN TIMUR",
     "kasus_total": 351,
     "kasus_tanpa_tgl": 3,
     "kasus_dengan_tgl": 348,
@@ -19605,10 +19591,9 @@
             }
         }
     }
-},
-{
+}],
+"SUMATERA UTARA":[{
     "last_date": "2020-06-09",
-    "provinsi": "SUMATERA UTARA",
     "kasus_total": 618,
     "kasus_tanpa_tgl": 7,
     "kasus_dengan_tgl": 611,
@@ -21094,10 +21079,9 @@
             }
         }
     }
-},
-{
+}],
+"DAERAH ISTIMEWA YOGYAKARTA":[{
     "last_date": "2020-06-09",
-    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
     "kasus_total": 249,
     "kasus_tanpa_tgl": 15,
     "kasus_dengan_tgl": 234,
@@ -22454,10 +22438,9 @@
             }
         }
     }
-},
-{
+}],
+"KALIMANTAN UTARA":[{
     "last_date": "2020-06-09",
-    "provinsi": "KALIMANTAN UTARA",
     "kasus_total": 170,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 170,
@@ -23758,10 +23741,9 @@
             }
         }
     }
-},
-{
+}],
+"KEPULAUAN RIAU":[{
     "last_date": "2020-06-09",
-    "provinsi": "KEPULAUAN RIAU",
     "kasus_total": 228,
     "kasus_tanpa_tgl": 5,
     "kasus_dengan_tgl": 223,
@@ -25161,10 +25143,9 @@
             }
         }
     }
-},
-{
+}],
+"KALIMANTAN BARAT":[{
     "last_date": "2020-06-09",
-    "provinsi": "KALIMANTAN BARAT",
     "kasus_total": 234,
     "kasus_tanpa_tgl": 3,
     "kasus_dengan_tgl": 231,
@@ -26458,10 +26439,9 @@
             }
         }
     }
-},
-{
+}],
+"SULAWESI TENGGARA":[{
     "last_date": "2020-06-09",
-    "provinsi": "SULAWESI TENGGARA",
     "kasus_total": 263,
     "kasus_tanpa_tgl": 3,
     "kasus_dengan_tgl": 260,
@@ -27744,10 +27724,9 @@
             }
         }
     }
-},
-{
+}],
+"LAMPUNG":[{
     "last_date": "2020-06-09",
-    "provinsi": "LAMPUNG",
     "kasus_total": 148,
     "kasus_tanpa_tgl": 1,
     "kasus_dengan_tgl": 147,
@@ -28986,10 +28965,9 @@
             }
         }
     }
-},
-{
+}],
+"SULAWESI UTARA":[{
     "last_date": "2020-06-09",
-    "provinsi": "SULAWESI UTARA",
     "kasus_total": 551,
     "kasus_tanpa_tgl": 2,
     "kasus_dengan_tgl": 549,
@@ -30170,10 +30148,9 @@
             }
         }
     }
-},
-{
+}],
+"SULAWESI TENGAH":[{
     "last_date": "2020-06-09",
-    "provinsi": "SULAWESI TENGAH",
     "kasus_total": 159,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 159,
@@ -31490,10 +31467,9 @@
             }
         }
     }
-},
-{
+}],
+"RIAU":[{
     "last_date": "2020-06-09",
-    "provinsi": "RIAU",
     "kasus_total": 120,
     "kasus_tanpa_tgl": 1,
     "kasus_dengan_tgl": 119,
@@ -32791,10 +32767,9 @@
             }
         }
     }
-},
-{
+}],
+"PAPUA BARAT":[{
     "last_date": "2020-06-09",
-    "provinsi": "PAPUA BARAT",
     "kasus_total": 183,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 183,
@@ -33942,10 +33917,9 @@
             }
         }
     }
-},
-{
+}],
+"SULAWESI BARAT":[{
     "last_date": "2020-06-09",
-    "provinsi": "SULAWESI BARAT",
     "kasus_total": 94,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 94,
@@ -35044,10 +35018,9 @@
             }
         }
     }
-},
-{
+}],
+"JAMBI":[{
     "last_date": "2020-06-09",
-    "provinsi": "JAMBI",
     "kasus_total": 103,
     "kasus_tanpa_tgl": 1,
     "kasus_dengan_tgl": 102,
@@ -36156,10 +36129,9 @@
             }
         }
     }
-},
-{
+}],
+"MALUKU UTARA":[{
     "last_date": "2020-06-09",
-    "provinsi": "MALUKU UTARA",
     "kasus_total": 190,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 190,
@@ -37403,10 +37375,9 @@
             }
         }
     }
-},
-{
+}],
+"MALUKU":[{
     "last_date": "2020-06-09",
-    "provinsi": "MALUKU",
     "kasus_total": 315,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 315,
@@ -38625,10 +38596,9 @@
             }
         }
     }
-},
-{
+}],
+"GORONTALO":[{
     "last_date": "2020-06-09",
-    "provinsi": "GORONTALO",
     "kasus_total": 139,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 139,
@@ -39758,10 +39728,9 @@
             }
         }
     }
-},
-{
+}],
+"KEPULAUAN BANGKA BELITUNG":[{
     "last_date": "2020-06-09",
-    "provinsi": "KEPULAUAN BANGKA BELITUNG",
     "kasus_total": 121,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 121,
@@ -40916,10 +40885,9 @@
             }
         }
     }
-},
-{
+}],
+"ACEH":[{
     "last_date": "2020-06-09",
-    "provinsi": "ACEH",
     "kasus_total": 20,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 20,
@@ -41958,10 +41926,9 @@
             }
         }
     }
-},
-{
+}],
+"BENGKULU":[{
     "last_date": "2020-06-09",
-    "provinsi": "BENGKULU",
     "kasus_total": 92,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 92,
@@ -43084,10 +43051,9 @@
             }
         }
     }
-},
-{
+}],
+"NUSA TENGGARA TIMUR":[{
     "last_date": "2020-06-09",
-    "provinsi": "NUSA TENGGARA TIMUR",
     "kasus_total": 103,
     "kasus_tanpa_tgl": 0,
     "kasus_dengan_tgl": 103,
@@ -44093,4 +44059,4 @@
             }
         }
     }
-}]
+}]}
